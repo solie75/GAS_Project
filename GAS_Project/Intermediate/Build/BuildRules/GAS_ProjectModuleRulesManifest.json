@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Unreal_Project\\GAS_Project\\GAS_Project\\Source\\GAS_Project\\GAS_Project.Build.cs",
-		"C:\\Unreal_Project\\GAS_Project\\GAS_Project\\Source\\GAS_Project.Target.cs",
-		"C:\\Unreal_Project\\GAS_Project\\GAS_Project\\Source\\GAS_ProjectEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.4"
-}
