@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_project\\gas_project\\gas_project\\source\\gas_project\\gas_project.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_project\\gas_project\\gas_project\\intermediate\\build\\win64\\x64\\gas_projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_project\\gas_project\\gas_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gas_project\\definitions.gas_project.h",
+            "c:\\unreal_project\\gas_project\\gas_project\\source\\gas_project\\gas_project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
